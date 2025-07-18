@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #1b1f3b;
+  height: 50px;
+  width: 100%;
+  list-style-type: none;
+}
+
+.listItem {
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  color: #f8f9fa;
+}
+
+.listItem:hover {
+  color: #a8dadc;
+  /* color: #E63946; */
+}
